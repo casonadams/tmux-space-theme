@@ -4,7 +4,8 @@ tmux theme inspired by SpaceVim
 # Setup
 ## Linux
 Install a powerline font and use it with terminal
-[DejaVu Sans Mono](https://github.com/powerline/fonts/blob/master/DejaVuSansMono/DejaVu%20Sans%20Mono%20for%20Powerline.ttf)
+[DejaVu Sans Mono](https://github.com/powerline/fonts/blob/master/DejaVuSansMono/DejaVu%20Sans%20Mono%20for%20Powerline.ttf).
+
 I prefer alacritty update this line in the `~/.config/alacritty/alacritty.yml` file
 
 ```bash
@@ -18,7 +19,8 @@ sudo curl -L https://github.com/arl/gitmux/releases/download/v0.4.1/gitmux_0.4.1
 
 ## OSX
 Install a powerline font and use it with terminal
-[Source Code Pro](https://github.com/powerline/fonts/blob/master/SourceCodePro/Source%20Code%20Pro%20for%20Powerline.otf)
+[Source Code Pro](https://github.com/powerline/fonts/blob/master/SourceCodePro/Source%20Code%20Pro%20for%20Powerline.otf).
+
 I prefer alacritty update this line in the `~/.alacritty.yml` file
 
 ```bash
