@@ -8,7 +8,7 @@ Install a powerline font and use it with terminal
 I prefer alacritty update this line in the `~/.config/alacritty/alacritty.yml` file
 
 ```bash
-family: "Source Code Pro for Powerline"
+family: "DejaVu Sans Mono for Powerline"
 ```
 
 ### Install gitmux for git info in status bar
