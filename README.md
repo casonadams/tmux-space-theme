@@ -44,6 +44,9 @@ set -g @plugin 'casonadams/tmux-space-theme'
 run -b '~/.tmux/plugins/tpm/tpm'
 ```
 
+## Options
+Add `setw -q @show-full-window-path true` to tmux.conf file to show full path in window.
+
 # Special Thanks
 https://github.com/arl/gitmux
 https://github.com/egel/tmux-gruvbox
