@@ -1,3 +1,5 @@
+<div style="text-align:center"><img src="tmux-space-theme.png" /></div>
+
 # tmux-space-theme
 tmux theme inspired by SpaceVim
 
